@@ -34,6 +34,21 @@ body {
 /**********************************************
 -------------- TO REMOVE CSS -----------------
 **********************************************/
+.container-fluid {
+  height: 100vh;
+}
+.content-row {
+  height: 100%;
+}
+
+.left-side {
+  background: #16151C;
+  height: 100%;
+}
+.main-side {
+  background: #fff;
+  height: 100%;
+}
 /*side bar*/
 #my-image {
   height: 250px;
