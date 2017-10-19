@@ -1,0 +1,33 @@
+/*imported css*/
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+/*CUSTOM CSS*/
+body {
+  background: #ccc;
+  font-family: 'Press Start 2P', cursive;
+}
+
+/**********************************************
+-------------- TO REMOVE CSS -----------------
+**********************************************/
+.progress {
+  margin: 2% auto;
+}
+#my-card {
+  padding: 20px;
+  position: absolute;
+  width: 250px;
+  z-index: 15;
+  top: 37%;
+  left: 23%;
+}
+#my-card div.card {
+  padding: 20px;
+}
+.btn-view {
+  margin-top: 16px;
+}
+
+/**********************************************
+-------------- TO REMOVE CSS -----------------
+**********************************************/
