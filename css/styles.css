@@ -4,7 +4,6 @@
 /*CUSTOM CSS*/
 body {
   background: #ccc;
-  font-family: 'Press Start 2P', cursive;
 }
 .padding-0 {
   padding: 0!important;
@@ -26,9 +25,11 @@ body {
 }
 #my-card div.card {
   padding: 20px;
+  font-family: 'Press Start 2P', cursive;
 }
 .btn-view {
   margin-top: 16px;
+  font-family: 'Press Start 2P', cursive;
 }
 
 /**********************************************
