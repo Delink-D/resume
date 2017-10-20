@@ -62,3 +62,17 @@ body {
   padding-top: 20px;
   padding-left: 30px;
 }
+#personal-datails ul {
+  color: #A09FA2;
+  list-style: none;
+}
+#personal-datails ul li {
+  padding: 5px 0;
+  line-height: 27px;
+}
+#personal-datails ul li span {
+  margin-top: -10px;
+}
+#personal-datails ul li i.material-icons {
+  font-size: 30px;
+}
