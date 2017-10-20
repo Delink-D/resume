@@ -57,3 +57,8 @@ body {
 }
 #personal-datails > h4 {
   color: #6a6a6a;
+}
+#personal-datails {
+  padding-top: 20px;
+  padding-left: 30px;
+}
