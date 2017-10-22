@@ -70,8 +70,8 @@ body {
   padding: 5px 0;
   line-height: 27px;
 }
-#personal-datails ul li span {
-  margin-top: -10px;
+#personal-datails ul li i {
+  margin-right: 16px;
 }
 #personal-datails ul li i.material-icons {
   font-size: 30px;
